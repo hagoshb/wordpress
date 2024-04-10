@@ -1,0 +1,16 @@
+
+	.footer{
+		display:flex;
+		justify-content:space-around;
+		flex-direction:row;
+		background-color:#ffffff;
+		color:black;
+	}
+	.items{
+		display: flex;
+		color:black;
+		flex-direction:column;
+	}
+	a{
+		color:black;
+	}
